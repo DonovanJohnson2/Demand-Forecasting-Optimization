@@ -1,1 +1,2 @@
 # Demand-Forecasting-Optimization
+This project presents a comprehensive approach to demand forecasting using advanced data analytics and machine learning techniques. We explore various models, including SARIMA, Random Forest, XGBoost, and LSTM, to predict future product demand using the Walmart Store Sales dataset. Our findings demonstrate the strengths and limitations of each model, providing insights into their practical applications.
